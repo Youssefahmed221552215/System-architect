@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1723136653 source:c:\users\pc\documents\code\unit4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lifo.h"
+
+1723134607 c:\users\pc\documents\code\unit4\lifo.h
+
+1723136612 source:c:\users\pc\documents\code\unit4\lifo.c
+	"lifo.h"
+

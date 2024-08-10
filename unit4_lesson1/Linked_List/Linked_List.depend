@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695843075 source:c:\users\pc\documents\code\linked_list\linked list.c
+	"linked list.h"
+
+1695840500 c:\users\pc\documents\code\linked_list\linked list.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+
+1695840127 source:c:\users\pc\documents\code\linked_list\main.c
+	"linked list.h"
+

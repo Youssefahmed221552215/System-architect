@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723142506 source:c:\users\pc\documents\code\unit4_fifo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fifo.h"
+
+1723219980 c:\users\pc\documents\code\unit4_fifo\fifo.h
+	"stdint.h"
+
