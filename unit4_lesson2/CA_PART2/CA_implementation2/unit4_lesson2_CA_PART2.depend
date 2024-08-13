@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1723508490 source:c:\users\pc\documents\code\unit4_lesson2_ca_part2\ca.c
+	"CA.h"
+
+1723490358 c:\users\pc\documents\code\unit4_lesson2_ca_part2\ca.h
+	"state.h"
+
+1723507439 c:\users\pc\documents\code\unit4_lesson2_ca_part2\state.h
+
+1723508513 source:c:\users\pc\documents\code\unit4_lesson2_ca_part2\dc_motor.c
+	"DC_Motor.h"
+
+1723490348 c:\users\pc\documents\code\unit4_lesson2_ca_part2\dc_motor.h
+	"state.h"
+
+1723509059 source:c:\users\pc\documents\code\unit4_lesson2_ca_part2\us.c
+	"US.h"
+
+1723507947 c:\users\pc\documents\code\unit4_lesson2_ca_part2\us.h
+	"state.h"
+
+1723507787 source:c:\users\pc\documents\code\unit4_lesson2_ca_part2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CA.h"
+	"US.h"
+	"DC_Motor.h"
+

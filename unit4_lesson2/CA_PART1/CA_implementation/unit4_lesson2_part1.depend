@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723476417 source:c:\users\pc\documents\code\unit4_lesson2_part1\ca.c
+	"CA.h"
+
+1723476437 c:\users\pc\documents\code\unit4_lesson2_part1\ca.h
+	"state.h"
+
+1723476476 c:\users\pc\documents\code\unit4_lesson2_part1\state.h
+
